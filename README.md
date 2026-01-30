@@ -54,5 +54,6 @@ Customers prioritize performance, battery life, and brand reputation over price 
 -Align product features with customer demand
 -Identify growth opportunities across market segments
 ## 📷 Dashboard Preview
-[Power BI Dashboard](Dashboard)
+[Power BI Dashboard](Dashboard.png)
+)
 
