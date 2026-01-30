@@ -1,5 +1,5 @@
 ## 📊 Power BI Mobile Market Sales Analysis
-📌 Project Overview
+## 📌 Project Overview
 This project presents an interactive Power BI dashboard built to analyze mobile market sales performance across brands, models, pricing segments, and technical specifications.
 The dashboard helps stakeholders understand sales drivers, customer preferences, and product positioning in the competitive smartphone market.
 
