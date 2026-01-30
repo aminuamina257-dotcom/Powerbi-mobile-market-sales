@@ -48,12 +48,12 @@ Premium brands dominate higher price segments, while budget and mid-range brands
 Customers prioritize performance, battery life, and brand reputation over price alone.
 
 ## 💡Business Impact
--The insights from this dashboard can help organizations:
--Optimize pricing and product positioning
--Improve inventory planning
--Align product features with customer demand
--Identify growth opportunities across market segments
+The insights from this dashboard can help organizations,
+Optimize pricing and product positioning.
+Improve inventory planning.
+Align product features with customer demand.
+Identify growth opportunities across market segments.
 ## 📷 Dashboard Preview
 [Power BI Dashboard](Dashboard.png)
-)
+
 
